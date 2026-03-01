@@ -19,7 +19,6 @@ export function BenchmarkPage({ autoSelectReportId }: BenchmarkPageProps) {
   const {
     reports,
     selectedId,
-    selectedReport,
     loading,
     setSelectedId,
     refresh,
